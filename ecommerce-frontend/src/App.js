@@ -15,7 +15,6 @@ function AppContent() {
   const { isAuthenticated } = useContext(AuthContext);
   const location = useLocation();
 
-  // ✅ Hide navbar on login and register pages
   const hideNavbar =
     location.pathname === "/login" || location.pathname === "/register";
 

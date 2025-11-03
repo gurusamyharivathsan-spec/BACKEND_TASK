@@ -1,3 +1,4 @@
+//Added JWT token authentication.
 // src/components/Login.js
 import React, { useContext, useState } from "react";
 import axios from "axios";
