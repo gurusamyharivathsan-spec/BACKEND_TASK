@@ -1,3 +1,4 @@
+//Created Category API Service with pagination
 // src/components/CategoryList.js
 import React, { useEffect, useState } from "react";
 import axios from "axios";
