@@ -1,3 +1,5 @@
+//Uses ElasticSearch to index and search products
+
 package com.backend_task.ecommerce_backend.search;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
